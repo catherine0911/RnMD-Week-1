@@ -4,3 +4,5 @@ Author: Thu Pham
 ## About Me
 Hi, I’m Thu Pham, a student at Reproducibility and Model Deployment class.
 I’m learning how to use GitHub.
+## Funfact
+I have been to 20 countries
