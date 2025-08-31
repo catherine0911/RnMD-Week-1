@@ -7,3 +7,4 @@ I’m learning how to use GitHub.
 ## Funfact
 I have been to 20 countries
 I can speak 4 languages
+I am lactose intolerance but love to drink bubble tea
